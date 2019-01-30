@@ -21,7 +21,7 @@ public class loginTestMain {
 //		driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(30,TimeUnit.SECONDS);
-    	driver.get("http://35.243.225.28:3001");
+    	driver.get("http://34.73.97.107:3001");
 		
 	}
   @Test
